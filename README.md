@@ -174,7 +174,6 @@ Commands:
   ai                         Get AI-powered suggestions for current issue
   record                     Record debugging steps in current session
   replay [sessionId]          Replay a recorded debugging session
-  login                      Log in to Trail service
   help [command]             display help for command
 ```
 

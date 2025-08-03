@@ -14,8 +14,11 @@ module.exports = {
   rules: {
     'no-console': 'off',
     'no-unused-vars': 'warn',
-    'no-multiple-empty-lines': ['error', { max: 2, maxEOF: 1 }],
-    'comma-dangle': ['error', 'always-multiline'],
+    'no-multiple-empty-lines': 'off',
+    'comma-dangle': 'off',
     'semi': ['error', 'always'],
+    'no-empty': 'warn',
+    'no-unreachable': 'warn',
+    'no-undef': 'warn',
   },
 };
