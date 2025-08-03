@@ -15,6 +15,7 @@ A powerful command-line tool for collaborative debugging and issue resolution. T
 ### Using Homebrew (Recommended)
 
 ```bash
+brew tap Samikshashreya/tap https://github.com/Samikshashreya/homebrew-tap.git
 brew install trail
 ```
 
